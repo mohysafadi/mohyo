@@ -1,0 +1,7 @@
+C:\Users\Mohy\source\repos\AL_MOHYO\AL_MOHYO\bin\Debug\AL_MOHYO.exe.config
+C:\Users\Mohy\source\repos\AL_MOHYO\AL_MOHYO\bin\Debug\AL_MOHYO.exe
+C:\Users\Mohy\source\repos\AL_MOHYO\AL_MOHYO\bin\Debug\AL_MOHYO.pdb
+C:\Users\Mohy\source\repos\AL_MOHYO\AL_MOHYO\obj\Debug\AL_MOHYO.csproj.AssemblyReference.cache
+C:\Users\Mohy\source\repos\AL_MOHYO\AL_MOHYO\obj\Debug\AL_MOHYO.csproj.CoreCompileInputs.cache
+C:\Users\Mohy\source\repos\AL_MOHYO\AL_MOHYO\obj\Debug\AL_MOHYO.exe
+C:\Users\Mohy\source\repos\AL_MOHYO\AL_MOHYO\obj\Debug\AL_MOHYO.pdb
